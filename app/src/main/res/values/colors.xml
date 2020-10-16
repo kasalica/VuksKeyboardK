@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#EEEFF3</color>
+    <color name="colorPrimaryDark">#dedee3</color>
+    <color name="colorAccent">#7d7d7d</color>
+
+    <color name="background">#d5d5db</color>
+    <color name="color_siva">#EEEFF3</color>
+    <color name="key_color">#ffffff</color>
+    <color name="key_pressed">#828282</color>
+    <color name="key_shadow">#afb0b3</color>
+
+</resources>
